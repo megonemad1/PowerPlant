@@ -989,7 +989,7 @@ MonoBehaviour:
   m_fontColor32:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -4024,7 +4024,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a239e180c52db654aba24ab851af3943, type: 2}
   - {fileID: 11400000, guid: c5d735b51ba99874c9f1d64fbc45abdc, type: 2}
   isShowingSteps: {fileID: 11400000, guid: 34bd28855ea685e449a2e9d69e9749da, type: 2}
-  StepsPerLevel: 1
+  StepsPerLevel: 3
   flashDuration: 1
   flashintervel: 0.5
   onWin:
